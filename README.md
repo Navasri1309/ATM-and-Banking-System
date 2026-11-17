@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:212225230196
-# Name: NAVASRI B
-# Date: 17/11/2026
+## Reg No:212225230196
+## Name: NAVASRI B
+## Date: 17/11/2026
 
 # AIM:
 To develop the ATM and Banking System using Star UML
